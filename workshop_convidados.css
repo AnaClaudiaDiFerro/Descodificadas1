@@ -47,5 +47,30 @@ body {
     font-size: 50px;
     font-style: bold;
     font-family: 'Roboto Mono', monospace;
+    color: blueviolet;
 }
 
+
+.container {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    color: white;
+    padding: 50px;
+  }
+
+  .image-container img {
+    width: 200px;
+    height: 150px;
+
+}
+
+    #descrição {
+        padding: 20px;
+        text-align: center;
+        font-family: 'Roboto Mono', monospace;
+        font-size: 30px;
+        background: linear-gradient(to right, #9616b6, #1c1cb4);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
