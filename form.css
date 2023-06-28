@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@1,700&display=swap');
+
+.fonte {
+    font-family: 'Roboto Mono', monospace;
+}
+
+body { background-image: url(Capa\ Jogos\ Indie.jpg);
+
+}
+
+input[type="email"] {
+    width: 200px;
+    height: 20px;
+  }
+  input[type="radio"] {
+    width: 10px; 
+  }
+
+  input[type="text-area"] {
+    width: 200px;
+    height: 20px;
+  }
+
+div {background-color: rgb(232, 233, 164);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    padding-top: 1px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.parte2 {
+    margin-top: 0px;
+    padding-top: 0px;
+}

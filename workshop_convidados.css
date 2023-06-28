@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+*  {
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+body {
+    background: url(neon.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+#cabeçalho {
+    background-image: url(Capa\ Jogos\ Indie.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    text-align: center ;
+    font-size: 150px;
+    opacity: 0.9;
+    background-position: 250px 0.2px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.direção { 
+    padding-left: 300px;
+    
+}
+
+.coluna {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 280px;
+    height: 100%;
+    background-color: #201a1a;
+    line-height: 4.0em;
+}
+
+#meio {
+    text-align: center;
+    padding-top: 0px;
+    font-size: 50px;
+    font-style: bold;
+    font-family: 'Roboto Mono', monospace;
+}
+

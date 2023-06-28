@@ -1,0 +1,49 @@
+
+body { 
+    padding: 0px;
+    background: url(neon.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.form {
+    margin-left: 620px;
+    font-family: 'Roboto Mono', monospace;     
+}
+
+
+.coluna {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 280px;
+    height: 100%;
+    background-color: #201a1a;
+    line-height: 4.0em;
+    
+}
+
+.fonte {
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+    text-align: center;
+    line-height: 5.0em;
+    background-image: url(carro-indie.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0.5px;
+    
+}
+
+.meu-div {
+  
+    color: white;
+    padding: 0px 300px;    
+    font-family: 'Roboto Mono', monospace; 
+    font-style: bold;
+    text-align: center;
+    
+}
+
